@@ -4,10 +4,9 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="100" height"100"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" width="100" height="100"/>
 </p>
-
+***
 
 # SCREENSHOTS
-***
 
 ## WELCOME SCREEN
 ![alt text](https://github.com/varun-k-victor/android_Calculator/blob/master/screenshots/Screenshot_2021-10-23-23-16-01-38.jpg)
