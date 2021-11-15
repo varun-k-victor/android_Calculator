@@ -6,7 +6,7 @@
 </p>
 
 
-***SCREENSHOTS***
+# SCREENSHOTS
 ***
 
 ## WELCOME SCREEN
