@@ -1,6 +1,6 @@
 # android_Calculator
 
-android_Calculator(using java)
+#android_Calculator
 
 ***SCREENSHOTS***
 
