@@ -1,7 +1,7 @@
 # android_Calculator
 
 <p>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="200" height"200"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height"50"/>
 </p>
 ***
 
